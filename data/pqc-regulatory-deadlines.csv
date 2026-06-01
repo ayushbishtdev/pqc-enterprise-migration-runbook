@@ -1,0 +1,6 @@
+Regulatory_Body,Framework,Requirement,Impacted_Algorithms,Deadline_Year,Notes
+EU,EU Coordinated PQC Roadmap,National plans and CBOM inventory completed,All,2026,"Foundational mapping phase mandatory by December 2026[cite: 3]."
+NIST,NIST IR 8547,Algorithms Deprecated,RSA/ECC (112-bit),2030,"Algorithms can still be used during active migration but are inappropriate for new deployments[cite: 5, 10]."
+EU,EU Coordinated PQC Roadmap,High-risk use cases fully migrated,RSA/ECC,2030,"Applies to critical infrastructure, financial services, state secrets, and long-life data[cite: 3]."
+NIST,NIST IR 8547,Algorithms Disallowed,RSA/ECC (112-bit),2035,"Algorithms are forbidden; certificates relying on them lose all trust[cite: 5, 10]."
+EU,EU Coordinated PQC Roadmap,Remainder of estate migrated,RSA/ECC,2035,"Complete phase-out of legacy algorithms across all systems[cite: 3]."
